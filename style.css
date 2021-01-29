@@ -1,0 +1,74 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+ }
+
+
+
+body{
+    background-image:url(background.jpg);
+    background-size: cover;
+  }
+
+header
+  .logo{
+     display: block;
+     margin:0px auto;
+     text-align: center;
+     padding-top: 70px;
+   }
+
+    .testo1{
+     text-align: center;
+     color: #0ed40f;
+     font-family: sans-serif;
+     padding-top: 5px;
+   }
+
+nav{
+      text-align: center;
+      background-color: #0ed40f;
+      margin-left: 270px;
+      margin-right: 278px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+
+div{
+  color: white;
+  font-family: sans-serif;
+  padding-top: 20px;
+    }
+
+section{
+  text-align: center;
+  margin-right: 464px;
+}
+
+hr{
+  margin-left: 270px;
+  margin-right: 270px;
+  margin-top: 2px;
+
+}
+
+#secondalinea{
+  margin-left: 270px;
+  margin-right: 50px;
+  margin-top: 2px;
+
+}
+
+#terzalinea{
+  margin-left: 270px;
+  margin-right: 400px;
+  margin-top: 2px;
+}
+
+.primo{
+  font-size: 21px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.forse{background-color: }
